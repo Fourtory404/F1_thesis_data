@@ -1,0 +1,101 @@
+year,position,points,wins,constructor_id,constructor_name,nationality,constructor_id_original,constructor_name_original,period,points_per_win,competitive_index,is_major
+2016,1,765.0,19,mercedes,Mercedes,German,mercedes,Mercedes,Pre-Budget Cap (2016-2020),40.052356020942405,765.0,True
+2016,2,468.0,2,red_bull,Red Bull,Austrian,red_bull,Red Bull,Pre-Budget Cap (2016-2020),222.85714285714286,234.0,True
+2016,3,398.0,0,ferrari,Ferrari,Italian,ferrari,Ferrari,Pre-Budget Cap (2016-2020),3980.0,132.66666666666666,True
+2016,4,173.0,0,aston_martin,Aston Martin,Indian,force_india,Force India,Pre-Budget Cap (2016-2020),1730.0,43.25,True
+2016,5,138.0,0,williams,Williams,British,williams,Williams,Pre-Budget Cap (2016-2020),1380.0,27.6,True
+2016,6,76.0,0,mclaren,McLaren,British,mclaren,McLaren,Pre-Budget Cap (2016-2020),760.0,12.666666666666666,True
+2016,7,63.0,0,alphatauri,AlphaTauri/RB,Italian,toro_rosso,Toro Rosso,Pre-Budget Cap (2016-2020),630.0,9.0,True
+2016,8,29.0,0,haas,Haas,American,haas,Haas F1 Team,Pre-Budget Cap (2016-2020),290.0,3.625,True
+2016,9,8.0,0,alpine,Alpine,French,renault,Renault,Pre-Budget Cap (2016-2020),80.0,0.8888888888888888,True
+2016,10,2.0,0,alfa,Alfa Romeo/Sauber,Swiss,sauber,Sauber,Pre-Budget Cap (2016-2020),20.0,0.2,True
+2017,1,668.0,12,mercedes,Mercedes,German,mercedes,Mercedes,Pre-Budget Cap (2016-2020),55.20661157024794,668.0,True
+2017,2,522.0,5,ferrari,Ferrari,Italian,ferrari,Ferrari,Pre-Budget Cap (2016-2020),102.3529411764706,261.0,True
+2017,3,368.0,3,red_bull,Red Bull,Austrian,red_bull,Red Bull,Pre-Budget Cap (2016-2020),118.70967741935483,122.66666666666667,True
+2017,4,187.0,0,aston_martin,Aston Martin,Indian,force_india,Force India,Pre-Budget Cap (2016-2020),1870.0,46.75,True
+2017,5,83.0,0,williams,Williams,British,williams,Williams,Pre-Budget Cap (2016-2020),830.0,16.6,True
+2017,6,57.0,0,alpine,Alpine,French,renault,Renault,Pre-Budget Cap (2016-2020),570.0,9.5,True
+2017,7,53.0,0,alphatauri,AlphaTauri/RB,Italian,toro_rosso,Toro Rosso,Pre-Budget Cap (2016-2020),530.0,7.571428571428571,True
+2017,8,47.0,0,haas,Haas,American,haas,Haas F1 Team,Pre-Budget Cap (2016-2020),470.0,5.875,True
+2017,9,30.0,0,mclaren,McLaren,British,mclaren,McLaren,Pre-Budget Cap (2016-2020),300.0,3.3333333333333335,True
+2017,10,5.0,0,alfa,Alfa Romeo/Sauber,Swiss,sauber,Sauber,Pre-Budget Cap (2016-2020),50.0,0.5,True
+2018,1,655.0,11,mercedes,Mercedes,German,mercedes,Mercedes,Pre-Budget Cap (2016-2020),59.00900900900901,655.0,True
+2018,2,571.0,6,ferrari,Ferrari,Italian,ferrari,Ferrari,Pre-Budget Cap (2016-2020),93.60655737704919,285.5,True
+2018,3,419.0,4,red_bull,Red Bull,Austrian,red_bull,Red Bull,Pre-Budget Cap (2016-2020),102.19512195121952,139.66666666666666,True
+2018,4,122.0,0,alpine,Alpine,French,renault,Renault,Pre-Budget Cap (2016-2020),1220.0,30.5,True
+2018,5,111.0,0,aston_martin,Aston Martin,Indian,force_india,Force India,Pre-Budget Cap (2016-2020),1110.0,22.2,True
+2018,6,93.0,0,haas,Haas,American,haas,Haas F1 Team,Pre-Budget Cap (2016-2020),930.0,15.5,True
+2018,7,62.0,0,mclaren,McLaren,British,mclaren,McLaren,Pre-Budget Cap (2016-2020),620.0,8.857142857142858,True
+2018,8,48.0,0,alfa,Alfa Romeo/Sauber,Swiss,sauber,Sauber,Pre-Budget Cap (2016-2020),480.0,6.0,True
+2018,9,33.0,0,alphatauri,AlphaTauri/RB,Italian,toro_rosso,Toro Rosso,Pre-Budget Cap (2016-2020),330.0,3.6666666666666665,True
+2018,10,7.0,0,williams,Williams,British,williams,Williams,Pre-Budget Cap (2016-2020),70.0,0.7,True
+2019,1,739.0,15,mercedes,Mercedes,German,mercedes,Mercedes,Pre-Budget Cap (2016-2020),48.94039735099338,739.0,True
+2019,2,504.0,3,ferrari,Ferrari,Italian,ferrari,Ferrari,Pre-Budget Cap (2016-2020),162.5806451612903,252.0,True
+2019,3,417.0,3,red_bull,Red Bull,Austrian,red_bull,Red Bull,Pre-Budget Cap (2016-2020),134.51612903225805,139.0,True
+2019,4,145.0,0,mclaren,McLaren,British,mclaren,McLaren,Pre-Budget Cap (2016-2020),1450.0,36.25,True
+2019,5,91.0,0,alpine,Alpine,French,renault,Renault,Pre-Budget Cap (2016-2020),910.0,18.2,True
+2019,6,85.0,0,alphatauri,AlphaTauri/RB,Italian,toro_rosso,Toro Rosso,Pre-Budget Cap (2016-2020),850.0,14.166666666666666,True
+2019,7,73.0,0,aston_martin,Aston Martin,British,racing_point,Racing Point,Pre-Budget Cap (2016-2020),730.0,10.428571428571429,True
+2019,8,57.0,0,alfa,Alfa Romeo/Sauber,Swiss,alfa,Alfa Romeo,Pre-Budget Cap (2016-2020),570.0,7.125,True
+2019,9,28.0,0,haas,Haas,American,haas,Haas F1 Team,Pre-Budget Cap (2016-2020),280.0,3.111111111111111,True
+2019,10,1.0,0,williams,Williams,British,williams,Williams,Pre-Budget Cap (2016-2020),10.0,0.1,True
+2020,1,573.0,13,mercedes,Mercedes,German,mercedes,Mercedes,Pre-Budget Cap (2016-2020),43.74045801526718,573.0,True
+2020,2,319.0,2,red_bull,Red Bull,Austrian,red_bull,Red Bull,Pre-Budget Cap (2016-2020),151.9047619047619,159.5,True
+2020,3,202.0,0,mclaren,McLaren,British,mclaren,McLaren,Pre-Budget Cap (2016-2020),2020.0,67.33333333333333,True
+2020,4,195.0,1,aston_martin,Aston Martin,British,racing_point,Racing Point,Pre-Budget Cap (2016-2020),177.27272727272725,48.75,True
+2020,5,181.0,0,alpine,Alpine,French,renault,Renault,Pre-Budget Cap (2016-2020),1810.0,36.2,True
+2020,6,131.0,0,ferrari,Ferrari,Italian,ferrari,Ferrari,Pre-Budget Cap (2016-2020),1310.0,21.833333333333332,True
+2020,7,107.0,1,alphatauri,AlphaTauri/RB,Italian,alphatauri,AlphaTauri,Pre-Budget Cap (2016-2020),97.27272727272727,15.285714285714286,True
+2020,8,8.0,0,alfa,Alfa Romeo/Sauber,Swiss,alfa,Alfa Romeo,Pre-Budget Cap (2016-2020),80.0,1.0,True
+2020,9,3.0,0,haas,Haas,American,haas,Haas F1 Team,Pre-Budget Cap (2016-2020),30.0,0.3333333333333333,True
+2020,10,0.0,0,williams,Williams,British,williams,Williams,Pre-Budget Cap (2016-2020),0.0,0.0,True
+2021,1,613.5,9,mercedes,Mercedes,German,mercedes,Mercedes,Budget Cap Era (2021+),67.41758241758242,613.5,True
+2021,2,585.5,11,red_bull,Red Bull,Austrian,red_bull,Red Bull,Budget Cap Era (2021+),52.74774774774775,292.75,True
+2021,3,323.5,0,ferrari,Ferrari,Italian,ferrari,Ferrari,Budget Cap Era (2021+),3235.0,107.83333333333333,True
+2021,4,275.0,1,mclaren,McLaren,British,mclaren,McLaren,Budget Cap Era (2021+),249.99999999999997,68.75,True
+2021,5,155.0,1,alpine,Alpine,French,alpine,Alpine F1 Team,Budget Cap Era (2021+),140.9090909090909,31.0,True
+2021,6,142.0,0,alphatauri,AlphaTauri/RB,Italian,alphatauri,AlphaTauri,Budget Cap Era (2021+),1420.0,23.666666666666668,True
+2021,7,77.0,0,aston_martin,Aston Martin,British,aston_martin,Aston Martin,Budget Cap Era (2021+),770.0,11.0,True
+2021,8,23.0,0,williams,Williams,British,williams,Williams,Budget Cap Era (2021+),230.0,2.875,True
+2021,9,13.0,0,alfa,Alfa Romeo/Sauber,Swiss,alfa,Alfa Romeo,Budget Cap Era (2021+),130.0,1.4444444444444444,True
+2021,10,0.0,0,haas,Haas,American,haas,Haas F1 Team,Budget Cap Era (2021+),0.0,0.0,True
+2022,1,759.0,17,red_bull,Red Bull,Austrian,red_bull,Red Bull,Budget Cap Era (2021+),44.3859649122807,759.0,True
+2022,2,554.0,4,ferrari,Ferrari,Italian,ferrari,Ferrari,Budget Cap Era (2021+),135.1219512195122,277.0,True
+2022,3,515.0,1,mercedes,Mercedes,German,mercedes,Mercedes,Budget Cap Era (2021+),468.18181818181813,171.66666666666666,True
+2022,4,173.0,0,alpine,Alpine,French,alpine,Alpine F1 Team,Budget Cap Era (2021+),1730.0,43.25,True
+2022,5,159.0,0,mclaren,McLaren,British,mclaren,McLaren,Budget Cap Era (2021+),1590.0,31.8,True
+2022,6,55.0,0,alfa,Alfa Romeo/Sauber,Swiss,alfa,Alfa Romeo,Budget Cap Era (2021+),550.0,9.166666666666666,True
+2022,7,55.0,0,aston_martin,Aston Martin,British,aston_martin,Aston Martin,Budget Cap Era (2021+),550.0,7.857142857142857,True
+2022,8,37.0,0,haas,Haas,American,haas,Haas F1 Team,Budget Cap Era (2021+),370.0,4.625,True
+2022,9,35.0,0,alphatauri,AlphaTauri/RB,Italian,alphatauri,AlphaTauri,Budget Cap Era (2021+),350.0,3.888888888888889,True
+2022,10,8.0,0,williams,Williams,British,williams,Williams,Budget Cap Era (2021+),80.0,0.8,True
+2023,1,860.0,21,red_bull,Red Bull,Austrian,red_bull,Red Bull,Budget Cap Era (2021+),40.758293838862556,860.0,True
+2023,2,409.0,0,mercedes,Mercedes,German,mercedes,Mercedes,Budget Cap Era (2021+),4090.0,204.5,True
+2023,3,406.0,1,ferrari,Ferrari,Italian,ferrari,Ferrari,Budget Cap Era (2021+),369.09090909090907,135.33333333333334,True
+2023,4,302.0,0,mclaren,McLaren,British,mclaren,McLaren,Budget Cap Era (2021+),3020.0,75.5,True
+2023,5,280.0,0,aston_martin,Aston Martin,British,aston_martin,Aston Martin,Budget Cap Era (2021+),2800.0,56.0,True
+2023,6,120.0,0,alpine,Alpine,French,alpine,Alpine F1 Team,Budget Cap Era (2021+),1200.0,20.0,True
+2023,7,28.0,0,williams,Williams,British,williams,Williams,Budget Cap Era (2021+),280.0,4.0,True
+2023,8,25.0,0,alphatauri,AlphaTauri/RB,Italian,alphatauri,AlphaTauri,Budget Cap Era (2021+),250.0,3.125,True
+2023,9,16.0,0,alfa,Alfa Romeo/Sauber,Swiss,alfa,Alfa Romeo,Budget Cap Era (2021+),160.0,1.7777777777777777,True
+2023,10,12.0,0,haas,Haas,American,haas,Haas F1 Team,Budget Cap Era (2021+),120.0,1.2,True
+2024,1,666.0,6,mclaren,McLaren,British,mclaren,McLaren,Budget Cap Era (2021+),109.18032786885246,666.0,True
+2024,2,652.0,5,ferrari,Ferrari,Italian,ferrari,Ferrari,Budget Cap Era (2021+),127.84313725490198,326.0,True
+2024,3,589.0,9,red_bull,Red Bull,Austrian,red_bull,Red Bull,Budget Cap Era (2021+),64.72527472527473,196.33333333333334,True
+2024,4,468.0,4,mercedes,Mercedes,German,mercedes,Mercedes,Budget Cap Era (2021+),114.14634146341464,117.0,True
+2024,5,94.0,0,aston_martin,Aston Martin,British,aston_martin,Aston Martin,Budget Cap Era (2021+),940.0,18.8,True
+2024,6,65.0,0,alpine,Alpine,French,alpine,Alpine F1 Team,Budget Cap Era (2021+),650.0,10.833333333333334,True
+2024,7,58.0,0,haas,Haas,American,haas,Haas F1 Team,Budget Cap Era (2021+),580.0,8.285714285714286,True
+2024,8,46.0,0,alphatauri,AlphaTauri/RB,Italian,rb,RB F1 Team,Budget Cap Era (2021+),460.0,5.75,True
+2024,9,17.0,0,williams,Williams,British,williams,Williams,Budget Cap Era (2021+),170.0,1.8888888888888888,True
+2024,10,4.0,0,alfa,Alfa Romeo/Sauber,Swiss,sauber,Sauber,Budget Cap Era (2021+),40.0,0.4,True
+2025,1,617.0,12,mclaren,McLaren,British,mclaren,McLaren,Budget Cap Era (2021+),50.99173553719008,617.0,True
+2025,2,280.0,0,ferrari,Ferrari,Italian,ferrari,Ferrari,Budget Cap Era (2021+),2800.0,140.0,True
+2025,3,260.0,1,mercedes,Mercedes,German,mercedes,Mercedes,Budget Cap Era (2021+),236.36363636363635,86.66666666666667,True
+2025,4,239.0,3,red_bull,Red Bull,Austrian,red_bull,Red Bull,Budget Cap Era (2021+),77.09677419354838,59.75,True
+2025,5,86.0,0,williams,Williams,British,williams,Williams,Budget Cap Era (2021+),860.0,17.2,True
+2025,6,62.0,0,aston_martin,Aston Martin,British,aston_martin,Aston Martin,Budget Cap Era (2021+),620.0,10.333333333333334,True
+2025,7,61.0,0,alphatauri,AlphaTauri/RB,Italian,rb,RB F1 Team,Budget Cap Era (2021+),610.0,8.714285714285714,True
+2025,8,55.0,0,alfa,Alfa Romeo/Sauber,Swiss,sauber,Sauber,Budget Cap Era (2021+),550.0,6.875,True
+2025,9,44.0,0,haas,Haas,American,haas,Haas F1 Team,Budget Cap Era (2021+),440.0,4.888888888888889,True
+2025,10,20.0,0,alpine,Alpine,French,alpine,Alpine F1 Team,Budget Cap Era (2021+),200.0,2.0,True
